@@ -6,17 +6,17 @@
      <changefreq>daily</changefreq>
     </url>
 <url>
-     <loc>/docsy-jekyll#/</loc>
+     <loc>#/</loc>
      <lastmod>2021-09-21</lastmod>
      <changefreq>daily</changefreq>
     </url>
 <url>
-     <loc>/docsy-jekylldocs/</loc>
+     <loc>docs/</loc>
      <lastmod>2021-09-21</lastmod>
      <changefreq>daily</changefreq>
     </url>
 <url>
-     <loc>/docsy-jekylldocs/extras/</loc>
+     <loc>docs/extras/</loc>
      <lastmod>2021-09-21</lastmod>
      <changefreq>daily</changefreq>
     </url>
