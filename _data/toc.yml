@@ -1,0 +1,44 @@
+- title: Security Hardening
+  url: "#"
+  links: 
+    - title: Linux
+      url: "docs/linux"
+      children:
+        - title: sudo configuration
+          url: "linux/sudo-configuration"
+        - title: Filesystem Integrity
+          url: "linux/filesystem-integrity"
+        - title: Secure Boot
+          url: "linux/secure-boot"
+        - title: Process Hardening
+          url: "linux/processes"
+        - title: SELinux Configuration
+          url: "linux/selinux"
+        - title: Banner Configurations
+          url: "linux/banners"
+        - title: Service Configuration
+          url: "linux/services"
+                 
+- title: Documentation
+  url: docs
+  links:
+    - title: "Getting Started"
+      url: "docs/getting-started"
+      children:
+        - title: Features
+          url: "docs/getting-started#getting-started"
+        - title: Development
+          url: "docs/getting-started#development"
+        - title: Customization
+          url: "docs/getting-started#customization"
+    - title: "About"
+      url: "about"
+    - title: "News"
+      url: "news"
+- title: "Extras"
+  url: "docs/extras"
+  links:
+    - title: Quizzes
+      url: "docs/extras/example-quiz"
+    - title: Tags Page
+      url: "tags"
