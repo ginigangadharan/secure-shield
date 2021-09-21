@@ -1,8 +1,10 @@
 ---
 layout: default
 title: Process Hardening
-parent: Linux
-nav_order: 16
+permalink: linux/processes
+tags: 
+ - linux
+ - rhel8
 ---
 
 
